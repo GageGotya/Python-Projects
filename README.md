@@ -1,6 +1,6 @@
 # 🐍 Python Projects
 
-A collection of my Python work—from early coursework and scripting exercises to more advanced tools focused on automation, networking, and cybersecurity.
+A collection of my Python work, from early coursework and scripting exercises to more advanced tools focused on automation, networking, and cybersecurity.
 
 ---
 
